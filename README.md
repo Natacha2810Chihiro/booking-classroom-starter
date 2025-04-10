@@ -31,33 +31,33 @@ npm install yup @hookform/resolvers
 
 ### Niveau 1 - Configuration des écrans et de la navigation
 
-- [ ] Configuration du projet et installation des dépendances
-- [ ] Mise en place de la navigation (Stack et Tab)
+- [ ] Configuration du projet et installation des dépendances  (fait)
+- [ ] Mise en place de la navigation (Stack et Tab) (fait)
 
 ### Niveau 2 - Premier appel API
 
-- [ ] Configuration des appels API pour les salles de classe
-- [ ] Affichage de la liste des classes
+- [ ] Configuration des appels API pour les salles de classe (fait)
+- [ ] Affichage de la liste des classes (fait)
 
 ### Niveau 3 - Authentification
 
-- [ ] Création des écrans de base (Login, Register)
-- [ ] Implémentation de l'authentification (login/register)
+- [ ] Création des écrans de base (Login, Register) (Login fait )
+- [ ] Implémentation de l'authentification (login/register) (login fait)
 
 ### Niveau 4 - Context
 
-- [ ] Création d'un context pour l'authentification
-- [ ] Gestion du stockage du token avec AsyncStorage
+- [ ] Création d'un context pour l'authentification (fait)
+- [ ] Gestion du stockage du token avec AsyncStorage (fait)
 
 ### Niveau 5 - Profil utilisateur
 
-- [ ] Création de l'écran de profil
-- [ ] Affichage des informations de l'utilisateur
-- [ ] Possibilité de modifier ses informations
+- [ ] Création de l'écran de profil (fait)
+- [ ] Affichage des informations de l'utilisateur (fait)
+- [ ] Possibilité de modifier ses informations (fait)
 
 ### Niveau 6 - Apparence et fonctionnalités avancées
 
-- [ ] Création du composant Card pour les salles
+- [ ] Création du composant Card pour les salles (fait)
 - [ ] Création de l'écran de détails d'une salle
 - [ ] Afficher la liste des réservations pour une salle
 - [ ] Ajouter un bouton pour réserver une salle
